@@ -1,4 +1,4 @@
-#define led 22
+#define LED 22
 
 void setup() {
   // put your setup code here, to run once:
